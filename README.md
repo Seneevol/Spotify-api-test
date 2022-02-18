@@ -31,6 +31,12 @@ npm i
 nodemon
 ```
 
+## .env Template
+
+```
+PORT=3333
+```
+
 ## Tips
 
 ```
