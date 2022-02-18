@@ -28,7 +28,7 @@
 ```
 npm i
 
-npm start
+nodemon
 ```
 
 ## Tips
