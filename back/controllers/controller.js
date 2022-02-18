@@ -27,7 +27,7 @@ exports.search = async (req, res) => {
 
                     let dataLoop = data.body.tracks.items
 
-                    console.log('Search by TA MERE', dataLoop)
+                    console.log('Search Loop', dataLoop)
 
                     res.render('home', {
                         dataLoop
